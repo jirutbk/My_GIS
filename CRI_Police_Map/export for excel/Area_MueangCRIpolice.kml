@@ -14,7 +14,8 @@
   <Data name="ADM1_PCODE"><value>TH57</value></Data>
   <Data name="ADM0_EN"><value>Thailand</value></Data>
   <Data name="ADM0_TH"><value>ประเทศไทย</value></Data>
-  <Data name="ADM0_PCODE"><value>TH</value></Data></ExtendedData>
+  <Data name="ADM0_PCODE"><value>TH</value></Data>
+  <Data name="sqr_km"><value>3.62</value></Data></ExtendedData>
   <Polygon>
 <outerBoundaryIs>
   <LinearRing><coordinates>99.84097300200006,19.91548883300004
@@ -447,7 +448,8 @@
   <Data name="ADM1_PCODE"><value>TH57</value></Data>
   <Data name="ADM0_EN"><value>Thailand</value></Data>
   <Data name="ADM0_TH"><value>ประเทศไทย</value></Data>
-  <Data name="ADM0_PCODE"><value>TH</value></Data></ExtendedData>
+  <Data name="ADM0_PCODE"><value>TH</value></Data>
+  <Data name="sqr_km"><value>50</value></Data></ExtendedData>
   <Polygon>
 <outerBoundaryIs>
   <LinearRing><coordinates>99.89882744900007,19.927586763000022
@@ -8662,7 +8664,8 @@
   <Data name="ADM1_PCODE"><value>TH57</value></Data>
   <Data name="ADM0_EN"><value>Thailand</value></Data>
   <Data name="ADM0_TH"><value>ประเทศไทย</value></Data>
-  <Data name="ADM0_PCODE"><value>TH</value></Data></ExtendedData>
+  <Data name="ADM0_PCODE"><value>TH</value></Data>
+  <Data name="sqr_km"><value>17.38</value></Data></ExtendedData>
   <Polygon>
 <outerBoundaryIs>
   <LinearRing><coordinates>99.82978027400009,19.87880490400004
@@ -14610,7 +14613,8 @@
   <Data name="ADM1_PCODE"><value>TH57</value></Data>
   <Data name="ADM0_EN"><value>Thailand</value></Data>
   <Data name="ADM0_TH"><value>ประเทศไทย</value></Data>
-  <Data name="ADM0_PCODE"><value>TH</value></Data></ExtendedData>
+  <Data name="ADM0_PCODE"><value>TH</value></Data>
+  <Data name="sqr_km"><value>80.77</value></Data></ExtendedData>
   <Polygon>
 <outerBoundaryIs>
   <LinearRing><coordinates>99.73397634800006,19.875987033000058
@@ -15977,7 +15981,8 @@
   <Data name="ADM1_PCODE"><value>TH57</value></Data>
   <Data name="ADM0_EN"><value>Thailand</value></Data>
   <Data name="ADM0_TH"><value>ประเทศไทย</value></Data>
-  <Data name="ADM0_PCODE"><value>TH</value></Data></ExtendedData>
+  <Data name="ADM0_PCODE"><value>TH</value></Data>
+  <Data name="sqr_km"><value>184.5</value></Data></ExtendedData>
   <Polygon>
 <outerBoundaryIs>
   <LinearRing><coordinates>100.00788972300006,19.748897092000046
@@ -22701,7 +22706,8 @@
   <Data name="ADM1_PCODE"><value>TH57</value></Data>
   <Data name="ADM0_EN"><value>Thailand</value></Data>
   <Data name="ADM0_TH"><value>ประเทศไทย</value></Data>
-  <Data name="ADM0_PCODE"><value>TH</value></Data></ExtendedData>
+  <Data name="ADM0_PCODE"><value>TH</value></Data>
+  <Data name="sqr_km"><value>23.56</value></Data></ExtendedData>
   <Polygon>
 <outerBoundaryIs>
   <LinearRing><coordinates>99.89882744900007,19.927586763000022
@@ -23514,7 +23520,8 @@
   <Data name="ADM1_PCODE"><value>TH57</value></Data>
   <Data name="ADM0_EN"><value>Thailand</value></Data>
   <Data name="ADM0_TH"><value>ประเทศไทย</value></Data>
-  <Data name="ADM0_PCODE"><value>TH</value></Data></ExtendedData>
+  <Data name="ADM0_PCODE"><value>TH</value></Data>
+  <Data name="sqr_km"><value>139.52</value></Data></ExtendedData>
   <Polygon>
 <outerBoundaryIs>
   <LinearRing><coordinates>100.00788972300006,19.748897092000046
@@ -30523,7 +30530,8 @@
   <Data name="ADM1_PCODE"><value>TH57</value></Data>
   <Data name="ADM0_EN"><value>Thailand</value></Data>
   <Data name="ADM0_TH"><value>ประเทศไทย</value></Data>
-  <Data name="ADM0_PCODE"><value>TH</value></Data></ExtendedData>
+  <Data name="ADM0_PCODE"><value>TH</value></Data>
+  <Data name="sqr_km"><value>81.59</value></Data></ExtendedData>
   <Polygon>
 <outerBoundaryIs>
   <LinearRing><coordinates>99.77093168000005,19.894084829000064
@@ -37467,7 +37475,8 @@
   <Data name="ADM1_PCODE"><value>TH57</value></Data>
   <Data name="ADM0_EN"><value>Thailand</value></Data>
   <Data name="ADM0_TH"><value>ประเทศไทย</value></Data>
-  <Data name="ADM0_PCODE"><value>TH</value></Data></ExtendedData>
+  <Data name="ADM0_PCODE"><value>TH</value></Data>
+  <Data name="sqr_km"><value>49.41</value></Data></ExtendedData>
   <Polygon>
 <outerBoundaryIs>
   <LinearRing><coordinates>99.84611447600008,19.791153044000062
@@ -41035,7 +41044,8 @@
   <Data name="ADM1_PCODE"><value>TH57</value></Data>
   <Data name="ADM0_EN"><value>Thailand</value></Data>
   <Data name="ADM0_TH"><value>ประเทศไทย</value></Data>
-  <Data name="ADM0_PCODE"><value>TH</value></Data></ExtendedData>
+  <Data name="ADM0_PCODE"><value>TH</value></Data>
+  <Data name="sqr_km"><value>100.64</value></Data></ExtendedData>
   <Polygon>
 <outerBoundaryIs>
   <LinearRing><coordinates>99.64643926600007,19.911538922000034
