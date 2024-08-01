@@ -1,0 +1,57 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<ExtendedData>
+  <Data name="id"><value>101</value></Data>
+  <Data name="Name_TH"><value>ตู้ยามแม่กก</value></Data>
+  <Data name="Name_EN"><value>Mae Kok police kiosk</value></Data>
+  <Data name="Area_km2"><value>23.56</value></Data>
+  <Data name="Distanc_km"><value>4.4</value></Data></ExtendedData>
+  <Point><coordinates>99.84588667265675,19.94054407305325</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="id"><value>102</value></Data>
+  <Data name="Name_TH"><value>ตู้ยามสันทราย</value></Data>
+  <Data name="Name_EN"><value>San Sai police kiosk</value></Data>
+  <Data name="Area_km2"><value>17.38</value></Data>
+  <Data name="Distanc_km"><value>7.4</value></Data></ExtendedData>
+  <Point><coordinates>99.82143801704397,19.85792366096931</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="id"><value>103</value></Data>
+  <Data name="Name_TH"><value>ตู้ยามร่องขุ่น</value></Data>
+  <Data name="Name_EN"><value>Rong Khun police kiosk</value></Data>
+  <Data name="Area_km2"><value>81.59</value></Data>
+  <Data name="Distanc_km"><value>14</value></Data></ExtendedData>
+  <Point><coordinates>99.76607275158527,19.824285838165064</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="id"><value>104</value></Data>
+  <Data name="Name_TH"><value>ตู้ยามขุนกรณ์</value></Data>
+  <Data name="Name_EN"><value>Kun Khon police kiosk</value></Data>
+  <Data name="Area_km2"><value>80.77</value></Data>
+  <Data name="Distanc_km"><value>11.9</value></Data></ExtendedData>
+  <Point><coordinates>99.74501962388872,19.852468935185524</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="id"><value>105</value></Data>
+  <Data name="Name_TH"><value>ตู้ยามท่าสาย</value></Data>
+  <Data name="Name_EN"><value>Tha Sai police kiosk</value></Data>
+  <Data name="Area_km2"><value>49.41</value></Data>
+  <Data name="Distanc_km"><value>8.2</value></Data></ExtendedData>
+  <Point><coordinates>99.85035842238254,19.852929568828188</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="id"><value>106</value></Data>
+  <Data name="Name_TH"><value>ตู้ยามห้วยสัก</value></Data>
+  <Data name="Name_EN"><value>Huai Sak police kiosk</value></Data>
+  <Data name="Area_km2"><value>184.5</value></Data>
+  <Data name="Distanc_km"><value>20.5</value></Data></ExtendedData>
+  <Point><coordinates>99.91194131915692,19.767051989693023</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="id"><value>107</value></Data>
+  <Data name="Name_TH"><value>ตู้ยามจำบอน</value></Data>
+  <Data name="Name_EN"><value>Jam Bon police kiosk</value></Data>
+  <Data name="Area_km2"><value>139.52</value></Data>
+  <Data name="Distanc_km"><value>28.4</value></Data></ExtendedData>
+  <Point><coordinates>99.91854920312323,19.69674235555666</coordinates></Point></Placemark></Document></kml>
