@@ -3,8 +3,8 @@
 <ExtendedData>
   <Data name="id"><value>100</value></Data>
   <Data name="name_th"><value>ภ.จว.เชียงราย</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
+  <Data name="name_en"><value>Chiangrai provincial police</value></Data>
+  <Data name="tel"><value>053 718 118</value></Data>
   <Data name="area_km2"><value>null</value></Data>
   <Data name="distanc_km"><value>null</value></Data></ExtendedData>
   <Point><coordinates>99.87748142741349,19.93065135396167</coordinates></Point></Placemark>
@@ -12,10 +12,10 @@
 <ExtendedData>
   <Data name="id"><value>102</value></Data>
   <Data name="name_th"><value>สภ.เมืองเชียงราย</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value>053 744571</value></Data>
-  <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="name_en"><value>Mueang Chiangrai provincial police station</value></Data>
+  <Data name="tel"><value>053 744 571</value></Data>
+  <Data name="area_km2"><value>730.99</value></Data>
+  <Data name="distanc_km"><value>7.2</value></Data></ExtendedData>
   <Point><coordinates>99.83232231474672,19.91137382957365</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
@@ -24,221 +24,221 @@
   <Data name="name_en"><value></value></Data>
   <Data name="tel"><value></value></Data>
   <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="distanc_km"><value>7.2</value></Data></ExtendedData>
   <Point><coordinates>99.83282857754234,19.912254028619884</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>103</value></Data>
   <Data name="name_th"><value>สภ.บ้านดู่</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
+  <Data name="name_en"><value>Bandu provincial police station</value></Data>
+  <Data name="tel"><value>053 767 688</value></Data>
   <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="distanc_km"><value>8.3</value></Data></ExtendedData>
   <Point><coordinates>99.84593372741034,19.95916654076737</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>104</value></Data>
   <Data name="name_th"><value>สภ.แม่จัน</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
-  <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="name_en"><value>Mae Chan provincial police station</value></Data>
+  <Data name="tel"><value>053 771 444</value></Data>
+  <Data name="area_km2"><value>741.52</value></Data>
+  <Data name="distanc_km"><value>30.3</value></Data></ExtendedData>
   <Point><coordinates>99.85261805847571,20.14713413792915</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>105</value></Data>
   <Data name="name_th"><value>สภ.แม่ฟ้าหลวง</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
-  <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="name_en"><value>Mea Fah Luang provincial police station</value></Data>
+  <Data name="tel"><value>053 767 460</value></Data>
+  <Data name="area_km2"><value>659.9</value></Data>
+  <Data name="distanc_km"><value>51.3</value></Data></ExtendedData>
   <Point><coordinates>99.80105614082353,20.26709211188713</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>106</value></Data>
   <Data name="name_th"><value>สภ.แม่สาย</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
+  <Data name="name_en"><value>Mae Sai provincial police station</value></Data>
+  <Data name="tel"><value>053 731 444</value></Data>
   <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="distanc_km"><value>64.1</value></Data></ExtendedData>
   <Point><coordinates>99.88114731201358,20.4408878510386</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>107</value></Data>
   <Data name="name_th"><value>สภ.เชียงแสน</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
+  <Data name="name_en"><value>Chiang Saen provincial police station</value></Data>
+  <Data name="tel"><value>053 777 111</value></Data>
   <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="distanc_km"><value>56.6</value></Data></ExtendedData>
   <Point><coordinates>100.08765500365277,20.27465224668357</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>108</value></Data>
   <Data name="name_th"><value>สภ.บ้านแซว</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
+  <Data name="name_en"><value>Ban Saew provincial police station</value></Data>
+  <Data name="tel"><value>053 182 300</value></Data>
   <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="distanc_km"><value>67.9</value></Data></ExtendedData>
   <Point><coordinates>100.21639171567082,20.306434805460924</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>109</value></Data>
   <Data name="name_th"><value>สภ.เชียงของ</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
+  <Data name="name_en"><value>Chiang Khong provincial police station</value></Data>
+  <Data name="tel"><value>053 791 426</value></Data>
   <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="distanc_km"><value>97</value></Data></ExtendedData>
   <Point><coordinates>100.40727180976349,20.260236761515213</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>110</value></Data>
   <Data name="name_th"><value>สภ.เกาะช้าง</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
+  <Data name="name_en"><value>Koh Chang provincial police station</value></Data>
+  <Data name="tel"><value>053 675 694</value></Data>
   <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="distanc_km"><value>77.4</value></Data></ExtendedData>
   <Point><coordinates>100.00271847684333,20.387869645291392</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>111</value></Data>
   <Data name="name_th"><value>สภ.ดอยหลวง</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
-  <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="name_en"><value>Doi Luang provincial police station</value></Data>
+  <Data name="tel"><value>053 790 090</value></Data>
+  <Data name="area_km2"><value>316.58</value></Data>
+  <Data name="distanc_km"><value>41.6</value></Data></ExtendedData>
   <Point><coordinates>100.09956511999933,20.117501989464113</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>112</value></Data>
   <Data name="name_th"><value>สภ.เวียงเชียงรุ้ง</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
-  <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="name_en"><value>Wiang Chiang Rung provincial police station</value></Data>
+  <Data name="tel"><value>053 953 155</value></Data>
+  <Data name="area_km2"><value>273.58</value></Data>
+  <Data name="distanc_km"><value>24.6</value></Data></ExtendedData>
   <Point><coordinates>100.04081828652092,20.003613974576357</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>113</value></Data>
   <Data name="name_th"><value>สภ.เวียงชัย</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
-  <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="name_en"><value>Wiang Chai provincial police station</value></Data>
+  <Data name="tel"><value>053 769 236</value></Data>
+  <Data name="area_km2"><value>349.16</value></Data>
+  <Data name="distanc_km"><value>15.7</value></Data></ExtendedData>
   <Point><coordinates>99.93206074106628,19.884319621718006</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>114</value></Data>
   <Data name="name_th"><value>สภ.ขุนตาล</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
-  <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="name_en"><value>Khun Tan provincial police station</value></Data>
+  <Data name="tel"><value>053 780 016</value></Data>
+  <Data name="area_km2"><value>256.57</value></Data>
+  <Data name="distanc_km"><value>62.1</value></Data></ExtendedData>
   <Point><coordinates>100.26062954408323,19.833140605684964</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>115</value></Data>
   <Data name="name_th"><value>สภ.บุญเรือง</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
+  <Data name="name_en"><value>Bun Rueang provincial police station</value></Data>
+  <Data name="tel"><value>053 783 445</value></Data>
   <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="distanc_km"><value>69.6</value></Data></ExtendedData>
   <Point><coordinates>100.37955370680243,20.037460374511646</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>116</value></Data>
   <Data name="name_th"><value>สภ.เวียงแก่น</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
-  <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="name_en"><value>Wiang Kaen provincial police station</value></Data>
+  <Data name="tel"><value>053 608 081</value></Data>
+  <Data name="area_km2"><value>487.07</value></Data>
+  <Data name="distanc_km"><value>111</value></Data></ExtendedData>
   <Point><coordinates>100.51529665155898,20.112017778662143</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>117</value></Data>
   <Data name="name_th"><value>สภ.แม่อ้อ</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
+  <Data name="name_en"><value>Mae Or provincial police station</value></Data>
+  <Data name="tel"><value>053 671 600</value></Data>
   <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="distanc_km"><value>56.4</value></Data></ExtendedData>
   <Point><coordinates>99.8389168043809,19.650347134648495</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>118</value></Data>
   <Data name="name_th"><value>สภ.เทิง</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
+  <Data name="name_en"><value>Thoeng provincial police station</value></Data>
+  <Data name="tel"><value>053 795 405</value></Data>
   <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="distanc_km"><value>60.9</value></Data></ExtendedData>
   <Point><coordinates>100.17388722827523,19.690645010746103</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>119</value></Data>
   <Data name="name_th"><value>สภ.แม่ยาว</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
+  <Data name="name_en"><value>Meayao provincial police station</value></Data>
+  <Data name="tel"><value>053 737 191</value></Data>
   <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="distanc_km"><value>18.1</value></Data></ExtendedData>
   <Point><coordinates>99.77019153016307,19.968627102788016</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>120</value></Data>
   <Data name="name_th"><value>สภ.แม่ลาว</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
-  <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="name_en"><value>Mae Lao provincial police station</value></Data>
+  <Data name="tel"><value>053 183 828</value></Data>
+  <Data name="area_km2"><value>216.72</value></Data>
+  <Data name="distanc_km"><value>29.3</value></Data></ExtendedData>
   <Point><coordinates>99.70079650495475,19.792290285981487</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>121</value></Data>
   <Data name="name_th"><value>สภ.พญาเม็งราย</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
-  <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="name_en"><value>Phaya Mengrai provincial police station</value></Data>
+  <Data name="tel"><value>053 799 113</value></Data>
+  <Data name="area_km2"><value>474.03</value></Data>
+  <Data name="distanc_km"><value>46.9</value></Data></ExtendedData>
   <Point><coordinates>100.15440376683672,19.85118126944637</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>122</value></Data>
   <Data name="name_th"><value>สภ.ป่าแดด</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
-  <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="name_en"><value>Pa Daet provincial police station</value></Data>
+  <Data name="tel"><value>053 761 012</value></Data>
+  <Data name="area_km2"><value>255.14</value></Data>
+  <Data name="distanc_km"><value>60.1</value></Data></ExtendedData>
   <Point><coordinates>99.99274068682452,19.50284456796717</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>123</value></Data>
   <Data name="name_th"><value>สภ.แม่สรวย</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
-  <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="name_en"><value>Mae Suai provincial police station</value></Data>
+  <Data name="tel"><value>053 786 004</value></Data>
+  <Data name="area_km2"><value>1402.4</value></Data>
+  <Data name="distanc_km"><value>55.9</value></Data></ExtendedData>
   <Point><coordinates>99.5418882003207,19.654616291873957</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>124</value></Data>
   <Data name="name_th"><value>สภ.เวียงป่าเป้า</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
+  <Data name="name_en"><value>Wiang Pa Pao provincial police station</value></Data>
+  <Data name="tel"><value>053 781 466</value></Data>
   <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="distanc_km"><value>93.8</value></Data></ExtendedData>
   <Point><coordinates>99.50831847793721,19.348306148010156</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>125</value></Data>
   <Data name="name_th"><value>สภ.แม่เจดีย์</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
+  <Data name="name_en"><value>Mae Jadee provincial police station</value></Data>
+  <Data name="tel"><value>053 789 508</value></Data>
   <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="distanc_km"><value>117</value></Data></ExtendedData>
   <Point><coordinates>99.51577034372977,19.20252319007008</coordinates></Point></Placemark>
 <Placemark>
 <ExtendedData>
   <Data name="id"><value>126</value></Data>
   <Data name="name_th"><value>สภ.พาน</value></Data>
-  <Data name="name_en"><value></value></Data>
-  <Data name="tel"><value></value></Data>
+  <Data name="name_en"><value>Phan provincial police station</value></Data>
+  <Data name="tel"><value>053 721 515</value></Data>
   <Data name="area_km2"><value>null</value></Data>
-  <Data name="distanc_km"><value>null</value></Data></ExtendedData>
+  <Data name="distanc_km"><value>51.6</value></Data></ExtendedData>
   <Point><coordinates>99.74130027274778,19.552784243947276</coordinates></Point></Placemark></Document></kml>
